@@ -6,7 +6,7 @@ The project includes data exploration, preprocessing, model training, prediction
 
 # 📁 Repository Contents
 
-📊 1. housing.csv
+# 📊 1. housing.csv
 
 Full dataset used for:
 
