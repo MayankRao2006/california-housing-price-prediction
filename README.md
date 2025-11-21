@@ -169,4 +169,7 @@ Anyone can retrain the model from the notebook or main.py.
 
 predictions.csv and testing.csv are provided for convenience.
 
+# 🙏 Dataset credit
+Original data provided by Kaggle: https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 # ⭐ If you found this project helpful, consider leaving a star!
