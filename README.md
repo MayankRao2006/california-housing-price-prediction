@@ -1,4 +1,4 @@
-## 🏡 California Housing Price Prediction — End-to-End ML Project
+# 🏡 California Housing Price Prediction — End-to-End ML Project
 
 This repository contains a complete Machine Learning pipeline built using the California Housing dataset, with the goal of predicting median house values using demographic and housing-related features.
 
@@ -6,7 +6,7 @@ The project includes data exploration, preprocessing, model training, prediction
 
 # 📁 Repository Contents
 
-#📊 1. housing.csv
+📊 1. housing.csv
 
 Full dataset used for:
 
